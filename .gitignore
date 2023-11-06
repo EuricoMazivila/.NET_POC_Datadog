@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+appsettings.Development.json
+/.idea/.idea.POC_Datadog/.idea/.name
+
+/POC_Serilog_Datadog/bin/
+/POC_Serilog_Datadog/obj/
